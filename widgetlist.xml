@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rsp stat="ok">
+<list>
+<widget id="LeninTest">
+<title>TestApp</title>
+<compression size="2869" type="zip"/>
+<description>testing</description>
+<download>http://192.168.0.100/Widget/LeninTest_0.100_America_20150427.zip</download>
+</widget>
+</list>
+</rsp>
